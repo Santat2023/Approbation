@@ -1,0 +1,9 @@
+style_02
+style_07
+style_11
+landscape_03
+landscape_05
+landscape_08
+person_composition_01
+person_composition_07
+person_composition_09

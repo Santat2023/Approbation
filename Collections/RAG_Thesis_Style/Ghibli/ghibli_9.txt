@@ -1,0 +1,5 @@
+artist: Studio Ghibli Style
+style: Anime / Hand-drawn Animation Style
+mood: Threatening, powerful, and dramatic.
+style_description: Textures on the stone tower show detailed weathering, combined with high-contrast digital lighting effects for the lightning.
+color: A dark, moody color palette dominated by deep purples, grays, and blacks, contrasted with the glowing neon-purple lightning.

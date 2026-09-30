@@ -1,0 +1,5 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Serene, peaceful, and full of natural wonder.
+style_description: Iconic Studio Ghibli style with highly detailed texture work on the grass field and fluid clothing animation lines.
+color: Dominant vibrant green palette of the meadow contrasted beautifully with the woman’s soft yellow dress.

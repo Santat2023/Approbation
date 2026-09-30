@@ -1,0 +1,6 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Formal, celebratory, and optimistic.
+style_description: Clean, hand-drawn anime aesthetic with prominent character linework and a soft painted sky.
+lighting: Bright, direct daylight casting natural highlights on the characters' clothing and faces.
+color: Vibrant blue sky contrasted with the warm brown and light purple tones of the characters' formal suits.

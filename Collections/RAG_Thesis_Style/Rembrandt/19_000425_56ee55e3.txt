@@ -1,0 +1,5 @@
+artist: Rembrandt
+style: Baroque
+mood: Contemplative and solemn, with a sense of quiet anticipation or reverence.
+style_description: Etching or fine line drawing with expressive, energetic lines, using hatching to define form and texture.
+color: Monochromatic, with rich black ink lines against a light grey paper background.

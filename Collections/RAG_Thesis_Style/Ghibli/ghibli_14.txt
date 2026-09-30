@@ -1,0 +1,5 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Aspirational, majestic, and focused on mechanical wonder.
+style_description: Highly realistic mechanical and industrial design combined with signature Ghibli hand-painted textures.
+color: Cold metallic blue-greys of the aircraft body contrasted with the warm wooden tones of the props and scaffolding.

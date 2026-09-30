@@ -1,0 +1,5 @@
+artist: Pierre Auguste Renoir
+style: Impressionism
+mood: Intimate, quiet, and contemplative, evoking a sense of private vulnerability and serene grace.
+style_description: Oil painting on canvas in the Impressionist style, characterized by expressive, visible brushstrokes and soft blending that suggest form and texture rather than defining them precisely.
+color: Warm palette dominated by rich ochres, deep browns in the background, and soft peachy and creamy tones on the skin, with pale white and cream in the fabric.

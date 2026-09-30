@@ -1,0 +1,5 @@
+artist: Pierre Auguste Renoir
+style: Impressionism
+mood: Focused, contemplative, and serene
+style_description: Oil on canvas with visible brushstrokes, Impressionist style emphasizing light and color over precise detail
+color: Warm but muted palette dominated by earthy tones of brown, grey, and ochre

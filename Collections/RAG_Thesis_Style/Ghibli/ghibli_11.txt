@@ -1,0 +1,5 @@
+artist: Hiromasa Yonebayashi / Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Peaceful, idyllic, and nostalgic.
+style_description: Highly detailed hand-painted Ghibli background illustration with rich textures on foliage and roofs.
+color: A dominant palette of vivid greens and warm terracotta browns from the roof tiles.

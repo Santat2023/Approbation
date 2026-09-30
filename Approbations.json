@@ -1,0 +1,529 @@
+[
+  {
+    "id": "style_01",
+    "category": "style",
+    "subcategory": "Ghibli",
+    "name": "Ghibli — garden morning",
+    "tz": "Создать иллюстрацию юной девушки, сидящей в тихом саду ранним утром. Вокруг высокая трава, цветы и небольшие деревья, сквозь листву проходит мягкий солнечный свет. Сцена должна выглядеть уютной, живой и немного сказочной, без мрачной атмосферы.",
+    "prompts": [
+      "A young girl sitting quietly in a green garden in the early morning, flowers and tall grass around her, soft sunlight through the trees, cozy magical atmosphere, hand-drawn animated film look.",
+      "A peaceful garden scene with a teenage girl resting under a small tree, warm morning light, wildflowers, gentle breeze, whimsical Japanese animation aesthetic.",
+      "A charming animated illustration of a girl in a lush summer garden, sunlight filtering through leaves, small flowers and butterflies, warm peaceful mood, detailed background."
+    ],
+    "llm_enhanced": [
+      "A young girl sitting quietly in a green garden in the early morning, flowers and tall grass around her, soft sunlight through the trees, cozy magical atmosphere, hand-drawn animated film look., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A peaceful garden scene with a teenage girl resting under a small tree, warm morning light, wildflowers, gentle breeze, whimsical Japanese animation aesthetic., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A charming animated illustration of a girl in a lush summer garden, sunlight filtering through leaves, small flowers and butterflies, warm peaceful mood, detailed background., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark"
+    ]
+  },
+  {
+    "id": "style_02",
+    "category": "style",
+    "subcategory": "Ghibli",
+    "name": "Ghibli — windy hill",
+    "tz": "Создать иллюстрацию молодой девушки, радостно идущей по тропинке на вершине зеленого холма в ясный летний день. Ее волосы и юбка развеваются от свежего ветра, одна рука поднята в приветственном или балансирующем жесте. На заднем плане — яркое синее небо с объемными, кучевыми белыми облаками. Атмосфера должна быть солнечной, динамичной и наполненной свободой, без мрачных тонов.",
+    "prompts": [
+      "A young girl walking joyfully on a path at the top of a green grassy hill, summer day, hair and orange skirt blowing in the wind, one hand raised, detailed background of vibrant blue sky with fluffy white clouds, hand-drawn animated film look.",
+      "A cheerful teenage girl in a yellow t-shirt and orange skirt balancing on a hill trail, fresh breeze, wildflowers and tall grass, bright sunny day, cinematic Japanese animation aesthetic.",
+      "A charming animated illustration of a girl enjoying a windy day on a hillside, looking at the viewer, dynamic pose, huge soft clouds in a bright blue sky, warm peaceful mood, detailed environment."
+    ],
+    "llm_enhanced": [
+      "A young girl walking joyfully on a path at the top of a green grassy hill, summer day, hair and orange skirt blowing in the wind, one hand raised, detailed background of vibrant blue sky with fluffy white clouds, hand-drawn animated film look., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, bright whimsical atmosphere, expressive but natural characters, richly painted backgrounds, vibrant natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A cheerful teenage girl in a yellow t-shirt and orange skirt balancing on a hill trail, fresh breeze, wildflowers and tall grass, bright sunny day, cinematic Japanese animation aesthetic., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, bright whimsical atmosphere, expressive but natural characters, richly painted backgrounds, vibrant natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A charming animated illustration of a girl enjoying a windy day on a hillside, looking at the viewer, dynamic pose, huge soft clouds in a bright blue sky, warm peaceful mood, detailed environment., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, bright whimsical atmosphere, expressive but natural characters, richly painted backgrounds, vibrant natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark"
+    ]
+  }
+  {
+    "id": "style_03",
+    "category": "style",
+    "subcategory": "Ghibli",
+    "name": "Ghibli — village journey",
+    "tz": "Изобразить ребёнка с небольшим рюкзаком, идущего по тропинке к старой деревне. Вдали видны дома с черепичными крышами и зелёные холмы. Сцена должна передавать ощущение путешествия, любопытства и доброжелательного сказочного мира.",
+    "prompts": [
+      "A child with a small backpack walking along a country path toward an old village, green hills and tiled roofs in the distance, warm whimsical animated atmosphere.",
+      "A young traveler following a winding path toward a peaceful rural village, lush hills, old houses, soft clouds and gentle afternoon light, hand-drawn Japanese fantasy animation.",
+      "A curious child walking through the countryside toward a distant village, detailed plants and trees, friendly magical atmosphere, cinematic animated background."
+    ],
+    "llm_enhanced": [
+      "A child with a small backpack walking along a country path toward an old village, green hills and tiled roofs in the distance, warm whimsical animated atmosphere., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A young traveler following a winding path toward a peaceful rural village, lush hills, old houses, soft clouds and gentle afternoon light, hand-drawn Japanese fantasy animation., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A curious child walking through the countryside toward a distant village, detailed plants and trees, friendly magical atmosphere, cinematic animated background., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark"
+    ]
+  },
+  {
+    "id": "style_04",
+    "category": "style",
+    "subcategory": "Ghibli",
+    "name": "Ghibli — rainy town",
+    "tz": "Создать атмосферную сцену маленькой городской улицы после дождя. Один персонаж идёт с зонтом, вокруг мокрый асфальт, старые дома, тёплый свет из окон и отражения в лужах. Настроение спокойное и немного ностальгическое.",
+    "prompts": [
+      "A quiet small-town street after rain, a young person walking with an umbrella, wet pavement reflecting warm window lights, cozy hand-drawn animated atmosphere.",
+      "A rainy evening in a charming old neighborhood, one character carrying a red umbrella, glowing windows, puddle reflections, soft clouds and nostalgic Japanese animation feeling.",
+      "A peaceful animated street after a summer rain, solitary figure under an umbrella, old houses and warm lamps reflected on wet pavement, gentle magical realism."
+    ],
+    "llm_enhanced": [
+      "A quiet small-town street after rain, a young person walking with an umbrella, wet pavement reflecting warm window lights, cozy hand-drawn animated atmosphere., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A rainy evening in a charming old neighborhood, one character carrying a red umbrella, glowing windows, puddle reflections, soft clouds and nostalgic Japanese animation feeling., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A peaceful animated street after a summer rain, solitary figure under an umbrella, old houses and warm lamps reflected on wet pavement, gentle magical realism., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark"
+    ]
+  },
+  {
+    "id": "style_05",
+    "category": "style",
+    "subcategory": "Ghibli",
+    "name": "Ghibli — forest house",
+    "tz": "Показать небольшой деревянный дом среди густого леса. Перед домом стоит один человек, рядом растут папоротники и цветы, через кроны пробивается солнечный свет. Дом и персонаж должны быть хорошо читаемыми, а окружение — богато прорисованным.",
+    "prompts": [
+      "A small wooden house deep in a lush forest, one person standing outside among ferns and wildflowers, warm rays of sunlight through the canopy, detailed whimsical animation background.",
+      "A cozy forest cottage surrounded by moss, flowers and tall trees, a solitary figure near the doorway, soft golden light and imaginative hand-drawn Japanese film aesthetic.",
+      "A peaceful woodland home with a person standing in front, dense green vegetation, shafts of sunlight, charming fantasy atmosphere, richly illustrated animated scenery."
+    ],
+    "llm_enhanced": [
+      "A small wooden house deep in a lush forest, one person standing outside among ferns and wildflowers, warm rays of sunlight through the canopy, detailed whimsical animation background., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A cozy forest cottage surrounded by moss, flowers and tall trees, a solitary figure near the doorway, soft golden light and imaginative hand-drawn Japanese film aesthetic., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A peaceful woodland home with a person standing in front, dense green vegetation, shafts of sunlight, charming fantasy atmosphere, richly illustrated animated scenery., Studio Ghibli-inspired hand-drawn Japanese animation aesthetic, warm whimsical atmosphere, expressive but natural characters, richly painted backgrounds, soft natural lighting, detailed environmental storytelling, cinematic 2D illustration, high detail, coherent visual hierarchy, detailed textures, no text, no watermark"
+    ]
+  },
+  {
+    "id": "style_06",
+    "category": "style",
+    "subcategory": "Rembrandt",
+    "name": "Rembrandt — elderly scholar",
+    "tz": "Создать камерный портрет пожилого учёного, сидящего за деревянным столом с раскрытой старой книгой. Один тёплый источник света падает слева сверху, освещая лицо, руки и книгу, тогда как фон постепенно растворяется в глубокой тени. Важны материальность кожи, ткани, дерева и бумаги.",
+    "prompts": [
+      "An elderly scholar reading an old book at a heavy wooden table, warm light from the upper left illuminating his face and hands, dark room, rich brown and ochre tones, classical oil portrait.",
+      "An old scholar seated alone with an antique book, a narrow golden beam revealing his aged face and worn clothing while the background disappears into shadow, dramatic Dutch painting.",
+      "A seventeenth-century scholar studying a manuscript at a wooden desk, strong side lighting, deep shadows, earthy colors, detailed skin, paper and fabric texture, traditional oil painting."
+    ],
+    "llm_enhanced": [
+      "An elderly scholar reading an old book at a heavy wooden table, warm light from the upper left illuminating his face and hands, dark room, rich brown and ochre tones, classical oil portrait., Rembrandt-inspired Dutch Golden Age oil painting, dramatic chiaroscuro, warm umber and ochre palette, controlled deep shadows, directional light, rich skin and fabric texture, visible painterly brushwork, classical composition, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "An old scholar seated alone with an antique book, a narrow golden beam revealing his aged face and worn clothing while the background disappears into shadow, dramatic Dutch painting., Rembrandt-inspired Dutch Golden Age oil painting, dramatic chiaroscuro, warm umber and ochre palette, controlled deep shadows, directional light, rich skin and fabric texture, visible painterly brushwork, classical composition, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A seventeenth-century scholar studying a manuscript at a wooden desk, strong side lighting, deep shadows, earthy colors, detailed skin, paper and fabric texture, traditional oil painting., Rembrandt-inspired Dutch Golden Age oil painting, dramatic chiaroscuro, warm umber and ochre palette, controlled deep shadows, directional light, rich skin and fabric texture, visible painterly brushwork, classical composition, high detail, coherent visual hierarchy, detailed textures, no text, no watermark"
+    ]
+  },
+  {
+    "id": "style_07",
+    "category": "style",
+    "subcategory": "Rembrandt",
+    "name": "Rembrandt — woman by window",
+    "tz": "Изобразить женщину XVII века, стоящую у окна в тёмной комнате. Свет из окна мягко освещает одну сторону лица и руки, остальная часть комнаты остаётся в тени. Одежда тяжёлая и исторически стилизованная, композиция спокойная и выразительная.",
+    "prompts": [
+      "A seventeenth-century woman standing beside a window in a dark room, soft daylight illuminating one side of her face and hands, heavy period clothing, dramatic classical oil painting.",
+      "A historical woman near a tall window, her face emerging from deep shadow, warm muted colors, dark interior, rich fabric texture and restrained Dutch Golden Age atmosphere.",
+      "A quiet old interior with a woman by the window, gentle light across her cheek and sleeve, almost black background, earthy palette, painterly chiaroscuro and realistic textures."
+    ],
+    "llm_enhanced": [
+      "A seventeenth-century woman standing beside a window in a dark room, soft daylight illuminating one side of her face and hands, heavy period clothing, dramatic classical oil painting., Rembrandt-inspired Dutch Golden Age oil painting, dramatic chiaroscuro, warm umber and ochre palette, controlled deep shadows, directional light, rich skin and fabric texture, visible painterly brushwork, classical composition, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A historical woman near a tall window, her face emerging from deep shadow, warm muted colors, dark interior, rich fabric texture and restrained Dutch Golden Age atmosphere., Rembrandt-inspired Dutch Golden Age oil painting, dramatic chiaroscuro, warm umber and ochre palette, controlled deep shadows, directional light, rich skin and fabric texture, visible painterly brushwork, classical composition, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A quiet old interior with a woman by the window, gentle light across her cheek and sleeve, almost black background, earthy palette, painterly chiaroscuro and realistic textures., Rembrandt-inspired Dutch Golden Age oil painting, dramatic chiaroscuro, warm umber and ochre palette, controlled deep shadows, directional light, rich skin and fabric texture, visible painterly brushwork, classical composition, high detail, coherent visual hierarchy, detailed textures, no text, no watermark"
+    ]
+  },
+  {
+    "id": "style_08",
+    "category": "style",
+    "subcategory": "Rembrandt",
+    "name": "Rembrandt — two figures",
+    "tz": "Создать сцену с двумя людьми XVII века, беседующими в небольшой комнате. Один человек находится ближе к источнику света и хорошо освещён, второй частично скрыт тенью. Должны быть различимы лица, руки, историческая одежда и деревянная мебель.",
+    "prompts": [
+      "Two seventeenth-century people quietly talking in a small dark room, one figure illuminated by warm side light and the other partly hidden in shadow, historical clothing, classical oil painting.",
+      "An intimate Dutch Golden Age interior with two figures having a conversation, candle-like light focused on one person, deep shadows around the second, rich brown fabrics and wood.",
+      "Two historical characters speaking beside a wooden table, a single warm light revealing their faces and hands, dark background, earthy colors, dramatic chiaroscuro oil painting."
+    ],
+    "llm_enhanced": [
+      "Two seventeenth-century people quietly talking in a small dark room, one figure illuminated by warm side light and the other partly hidden in shadow, historical clothing, classical oil painting., Rembrandt-inspired Dutch Golden Age oil painting, dramatic chiaroscuro, warm umber and ochre palette, controlled deep shadows, directional light, rich skin and fabric texture, visible painterly brushwork, classical composition, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "An intimate Dutch Golden Age interior with two figures having a conversation, candle-like light focused on one person, deep shadows around the second, rich brown fabrics and wood., Rembrandt-inspired Dutch Golden Age oil painting, dramatic chiaroscuro, warm umber and ochre palette, controlled deep shadows, directional light, rich skin and fabric texture, visible painterly brushwork, classical composition, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "Two historical characters speaking beside a wooden table, a single warm light revealing their faces and hands, dark background, earthy colors, dramatic chiaroscuro oil painting., Rembrandt-inspired Dutch Golden Age oil painting, dramatic chiaroscuro, warm umber and ochre palette, controlled deep shadows, directional light, rich skin and fabric texture, visible painterly brushwork, classical composition, high detail, coherent visual hierarchy, detailed textures, no text, no watermark"
+    ]
+  },
+  {
+    "id": "style_09",
+    "category": "style",
+    "subcategory": "Renoir",
+    "name": "Renoir — garden portrait",
+    "tz": "Создать светлую сцену с молодой женщиной, сидящей в цветущем саду летом. Солнечный свет проходит сквозь листву и пятнами ложится на одежду и лицо. Цвета мягкие и светлые, края форм слегка растворяются в воздухе, настроение радостное и спокойное.",
+    "prompts": [
+      "A young woman sitting in a blooming summer garden, dappled sunlight on her dress and face, flowers and green foliage, soft pastel colors, luminous French impressionist painting.",
+      "A peaceful garden portrait of a woman surrounded by roses and greenery, warm sunlight filtering through leaves, loose painterly brushstrokes, airy nineteenth-century atmosphere.",
+      "A sunlit woman resting among flowers on a summer afternoon, gentle pinks, greens and blues, soft edges, lively impressionist brushwork, elegant outdoor painting."
+    ],
+    "llm_enhanced": [
+      "A young woman sitting in a blooming summer garden, dappled sunlight on her dress and face, flowers and green foliage, soft pastel colors, luminous French impressionist painting., Renoir-inspired French Impressionism, luminous natural light, soft pastel palette, broken painterly brushstrokes, gentle edges, airy atmosphere, lively harmonious color, nineteenth-century outdoor painting, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A peaceful garden portrait of a woman surrounded by roses and greenery, warm sunlight filtering through leaves, loose painterly brushstrokes, airy nineteenth-century atmosphere., Renoir-inspired French Impressionism, luminous natural light, soft pastel palette, broken painterly brushstrokes, gentle edges, airy atmosphere, lively harmonious color, nineteenth-century outdoor painting, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A sunlit woman resting among flowers on a summer afternoon, gentle pinks, greens and blues, soft edges, lively impressionist brushwork, elegant outdoor painting., Renoir-inspired French Impressionism, luminous natural light, soft pastel palette, broken painterly brushstrokes, gentle edges, airy atmosphere, lively harmonious color, nineteenth-century outdoor painting, high detail, coherent visual hierarchy, detailed textures, no text, no watermark"
+    ]
+  },
+  {
+    "id": "style_10",
+    "category": "style",
+    "subcategory": "Renoir",
+    "name": "Renoir — café friends",
+    "tz": "Изобразить двух друзей, сидящих за небольшим столиком летнего кафе в саду. Вокруг цветы, зелень и размытые фигуры других посетителей. Свет солнечный и рассеянный, лица и одежда должны быть мягко освещены, сцена — живая и непринуждённая.",
+    "prompts": [
+      "Two friends sitting at a small garden café table on a sunny afternoon, flowers and blurred visitors behind them, soft pastel clothing, luminous impressionist brushwork.",
+      "A cheerful outdoor Parisian café with two friends talking over drinks, dappled sunlight across their faces, lush greenery, pink and blue accents, airy French impressionism.",
+      "Two people enjoying a relaxed conversation at a summer café, warm filtered sunlight, garden foliage and flowers, loose painterly strokes, elegant nineteenth-century mood."
+    ],
+    "llm_enhanced": [
+      "Two friends sitting at a small garden café table on a sunny afternoon, flowers and blurred visitors behind them, soft pastel clothing, luminous impressionist brushwork., Renoir-inspired French Impressionism, luminous natural light, soft pastel palette, broken painterly brushstrokes, gentle edges, airy atmosphere, lively harmonious color, nineteenth-century outdoor painting, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A cheerful outdoor Parisian café with two friends talking over drinks, dappled sunlight across their faces, lush greenery, pink and blue accents, airy French impressionism., Renoir-inspired French Impressionism, luminous natural light, soft pastel palette, broken painterly brushstrokes, gentle edges, airy atmosphere, lively harmonious color, nineteenth-century outdoor painting, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "Two people enjoying a relaxed conversation at a summer café, warm filtered sunlight, garden foliage and flowers, loose painterly strokes, elegant nineteenth-century mood., Renoir-inspired French Impressionism, luminous natural light, soft pastel palette, broken painterly brushstrokes, gentle edges, airy atmosphere, lively harmonious color, nineteenth-century outdoor painting, high detail, coherent visual hierarchy, detailed textures, no text, no watermark"
+    ]
+  },
+  {
+    "id": "style_11",
+    "category": "style",
+    "subcategory": "Renoir",
+    "name": "Renoir — riverside leisure",
+    "tz": "Создать сцену отдыха у реки в солнечный летний день. На переднем плане несколько людей разговаривают и отдыхают на траве, за ними вода, деревья и лёгкие лодки. Изображение должно передавать свет, движение воздуха и ощущение летнего дня.",
+    "prompts": [
+      "People relaxing on a grassy riverbank on a bright summer day, small boats on the water, trees behind them, soft sunlight, pastel colors and loose impressionist brushwork.",
+      "A lively riverside picnic with several friends resting on the grass, shimmering water and rowing boats behind them, warm daylight, airy nineteenth-century French painting.",
+      "Sunny riverbank leisure scene with people talking on the grass, gentle breeze, leafy trees and small boats, luminous palette, soft edges and spontaneous impressionist texture."
+    ],
+    "llm_enhanced": [
+      "People relaxing on a grassy riverbank on a bright summer day, small boats on the water, trees behind them, soft sunlight, pastel colors and loose impressionist brushwork., French Impressionism, luminous natural light, soft pastel palette, broken painterly brushstrokes, gentle edges, airy atmosphere, lively harmonious color, nineteenth-century outdoor painting, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "A lively riverside picnic with several friends resting on the grass, shimmering water and rowing boats behind them, warm daylight, airy nineteenth-century French painting., French Impressionism, luminous natural light, soft pastel palette, broken painterly brushstrokes, gentle edges, airy atmosphere, lively harmonious color, nineteenth-century outdoor painting, high detail, coherent visual hierarchy, detailed textures, no text, no watermark",
+      "Sunny riverbank leisure scene with people talking on the grass, gentle breeze, leafy trees and small boats, luminous palette, soft edges and spontaneous impressionist texture., French Impressionism, luminous natural light, soft pastel palette, broken painterly brushstrokes, gentle edges, airy atmosphere, lively harmonious color, nineteenth-century outdoor painting, high detail, coherent visual hierarchy, detailed textures, no text, no watermark"
+    ]
+  },
+  {
+    "id": "landscape_01",
+    "category": "landscape",
+    "subcategory": "general_landscape",
+    "name": "general landscape — meadow",
+    "tz": "Создать реалистичный природный пейзаж с широкой зелёной долиной, лугом на переднем плане, группой деревьев в среднем плане и небом с облаками на заднем плане. Композиция должна ясно передавать глубину пространства.",
+    "prompts": [
+      "A realistic wide green valley with a meadow in the foreground, a group of trees in the middle distance and a broad cloudy sky, clear natural depth and balanced composition.",
+      "A peaceful countryside landscape with grass and wildflowers close to the camera, scattered trees farther away, rolling hills and soft clouds, realistic landscape photography.",
+      "A spacious natural valley layered from foreground meadow to distant hills and sky, soft daylight, atmospheric perspective, realistic textures and believable scale."
+    ],
+    "llm_enhanced": [
+      "A realistic wide green valley with a meadow in the foreground, a group of trees in the middle distance and a broad cloudy sky, clear natural depth and balanced composition., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A peaceful countryside landscape with grass and wildflowers close to the camera, scattered trees farther away, rolling hills and soft clouds, realistic landscape photography., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A spacious natural valley layered from foreground meadow to distant hills and sky, soft daylight, atmospheric perspective, realistic textures and believable scale., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark"
+    ]
+  },
+  {
+    "id": "landscape_02",
+    "category": "landscape",
+    "subcategory": "general_landscape",
+    "name": "general landscape — coastal bay",
+    "tz": "Показать широкий морской залив с каменистым берегом на переднем плане, спокойной водой и невысокими холмами вдали. Горизонт должен быть хорошо читаемым, свет естественным, а композиция — реалистичной и спокойной.",
+    "prompts": [
+      "A wide coastal bay with rocks in the foreground, calm blue water and low hills along the distant shore, natural daylight, realistic landscape photograph.",
+      "A quiet seascape viewed from a rocky beach, gentle waves, distant green hills and a clear horizon, soft afternoon light and natural colors.",
+      "Realistic coastal landscape with textured foreground rocks, a broad calm bay and layered hills in the distance, balanced horizon and atmospheric depth."
+    ],
+    "llm_enhanced": [
+      "A wide coastal bay with rocks in the foreground, calm blue water and low hills along the distant shore, natural daylight, realistic landscape photograph., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A quiet seascape viewed from a rocky beach, gentle waves, distant green hills and a clear horizon, soft afternoon light and natural colors., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "Realistic coastal landscape with textured foreground rocks, a broad calm bay and layered hills in the distance, balanced horizon and atmospheric depth., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark"
+    ]
+  },
+  {
+    "id": "landscape_03",
+    "category": "landscape",
+    "subcategory": "general_landscape",
+    "name": "general landscape — autumn valley",
+    "tz": "Создать осенний природный пейзаж с лесистой долиной. На переднем плане разноцветные листья и трава, в среднем плане деревья, а вдали холмы в лёгкой дымке. Цвета должны быть естественными, без фантастических элементов.",
+    "prompts": [
+      "An autumn valley with red and golden foliage in the foreground, forested hills in the middle distance and hazy mountains beyond, realistic natural photography.",
+      "A broad autumn landscape filled with orange and yellow trees, fallen leaves near the camera, distant rolling hills, soft overcast light and atmospheric depth.",
+      "Realistic fall countryside with colorful vegetation across layered terrain, a quiet valley receding toward distant hills, muted daylight and detailed environmental textures."
+    ],
+    "llm_enhanced": [
+      "An autumn valley with red and golden foliage in the foreground, forested hills in the middle distance and hazy mountains beyond, realistic natural photography., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A broad autumn landscape filled with orange and yellow trees, fallen leaves near the camera, distant rolling hills, soft overcast light and atmospheric depth., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "Realistic fall countryside with colorful vegetation across layered terrain, a quiet valley receding toward distant hills, muted daylight and detailed environmental textures., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark"
+    ]
+  },
+  {
+    "id": "landscape_04",
+    "category": "landscape",
+    "subcategory": "mountain_landscape",
+    "name": "mountain landscape — road",
+    "tz": "Создать горный пейзаж, в котором извилистая дорога начинается на переднем плане и ведёт взгляд к заснеженным вершинам. Долина должна быть глубокой, горы — масштабными, а облачное небо — естественным.",
+    "prompts": [
+      "A winding mountain road starting in the foreground and leading toward distant snow-covered peaks, deep valley on both sides, soft cloudy daylight, realistic landscape photography.",
+      "A mountain highway curving through a vast valley toward towering snowy mountains, the road forming a strong leading line, overcast sky and natural photographic detail.",
+      "A lonely road guiding the viewer into a high mountain landscape, massive snow-capped peaks on the horizon, scattered clouds, soft natural light and wide-angle realism."
+    ],
+    "llm_enhanced": [
+      "A winding mountain road starting in the foreground and leading toward distant snow-covered peaks, deep valley on both sides, soft cloudy daylight, realistic landscape photography., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A mountain highway curving through a vast valley toward towering snowy mountains, the road forming a strong leading line, overcast sky and natural photographic detail., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A lonely road guiding the viewer into a high mountain landscape, massive snow-capped peaks on the horizon, scattered clouds, soft natural light and wide-angle realism., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark"
+    ]
+  },
+  {
+    "id": "landscape_05",
+    "category": "landscape",
+    "subcategory": "mountain_landscape",
+    "name": "mountain landscape — alpine lake",
+    "tz": "Показать спокойное высокогорное озеро, окружённое снежными вершинами и хвойным лесом. На воде должны быть естественные отражения гор, передний план — берег с камнями, свет — раннее утро.",
+    "prompts": [
+      "A calm alpine lake surrounded by snow-covered peaks and dark pine forests, rocks along the foreground shore, natural mountain reflections, early morning light.",
+      "A high mountain lake with clear reflections of rugged snowy peaks, coniferous forest around the water and stones near the camera, realistic dawn photography.",
+      "Realistic alpine scenery with a still lake, dramatic mountain range, pine trees and rocky foreground, cool morning atmosphere and balanced wide composition."
+    ],
+    "llm_enhanced": [
+      "A calm alpine lake surrounded by snow-covered peaks and dark pine forests, rocks along the foreground shore, natural mountain reflections, early morning light., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A high mountain lake with clear reflections of rugged snowy peaks, coniferous forest around the water and stones near the camera, realistic dawn photography., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "Realistic alpine scenery with a still lake, dramatic mountain range, pine trees and rocky foreground, cool morning atmosphere and balanced wide composition., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark"
+    ]
+  },
+  {
+    "id": "landscape_06",
+    "category": "landscape",
+    "subcategory": "mountain_landscape",
+    "name": "mountain landscape — mountain village",
+    "tz": "Изобразить небольшую горную деревню на склоне. Несколько домов должны быть хорошо видны среди зелёных склонов, за ними возвышается крупный горный массив. Перспектива должна подчёркивать разницу масштаба между домами и горами.",
+    "prompts": [
+      "A small mountain village on a green slope, several houses clearly visible, enormous rugged peaks rising behind them, realistic daylight and natural atmospheric depth.",
+      "A quiet alpine settlement scattered across a hillside, tiny houses beneath towering mountains, winding path through the foreground, believable landscape photography.",
+      "Realistic mountain village surrounded by green slopes, large rocky peaks dominating the background, soft clouds and clear separation of foreground, village and mountains."
+    ],
+    "llm_enhanced": [
+      "A small mountain village on a green slope, several houses clearly visible, enormous rugged peaks rising behind them, realistic daylight and natural atmospheric depth., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A quiet alpine settlement scattered across a hillside, tiny houses beneath towering mountains, winding path through the foreground, believable landscape photography., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "Realistic mountain village surrounded by green slopes, large rocky peaks dominating the background, soft clouds and clear separation of foreground, village and mountains., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark"
+    ]
+  },
+  {
+    "id": "landscape_07",
+    "category": "landscape",
+    "subcategory": "mountain_landscape",
+    "name": "mountain landscape — low angle",
+    "tz": "Создать пейзаж с очень низкой точки съёмки в горной долине. Крупные камни и трава занимают нижнюю часть кадра, а высокие вершины поднимаются над ними. Перспектива должна подчёркивать высоту гор.",
+    "prompts": [
+      "A low-angle mountain landscape photographed from ground level, large rocks and grass in the foreground, towering peaks rising dramatically behind them, wide sky.",
+      "Camera almost touching the ground among alpine plants and stones, enormous mountain peaks above the valley, exaggerated foreground scale and realistic wide-angle perspective.",
+      "A dramatic ground-level view of a mountain valley, close flowers and rocks appearing large, massive peaks dominating the background, natural daylight and realistic photography."
+    ],
+    "llm_enhanced": [
+      "A low-angle mountain landscape photographed from ground level, large rocks and grass in the foreground, towering peaks rising dramatically behind them, wide sky., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "Camera almost touching the ground among alpine plants and stones, enormous mountain peaks above the valley, exaggerated foreground scale and realistic wide-angle perspective., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A dramatic ground-level view of a mountain valley, close flowers and rocks appearing large, massive peaks dominating the background, natural daylight and realistic photography., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark"
+    ]
+  },
+  {
+    "id": "landscape_08",
+    "category": "landscape",
+    "subcategory": "waterfall_landscape",
+    "name": "waterfall landscape — forest waterfall",
+    "tz": "Создать природный водопад в густом зелёном лесу. Вода должна падать с каменного уступа в небольшой бассейн, вокруг мох, папоротники и влажные камни. Сцена должна выглядеть реалистично и передавать глубину леса.",
+    "prompts": [
+      "A natural waterfall dropping from a rocky ledge into a clear pool in a dense green forest, moss-covered rocks, ferns and soft diffused daylight, realistic landscape photography.",
+      "A secluded forest waterfall surrounded by wet stones, moss and ferns, white water flowing into a small pool, atmospheric depth and natural colors.",
+      "Realistic woodland waterfall with a rocky cascade, lush vegetation and mist near the pool, layered forest background, soft overcast light and detailed textures."
+    ],
+    "llm_enhanced": [
+      "A natural waterfall dropping from a rocky ledge into a clear pool in a dense green forest, moss-covered rocks, ferns and soft diffused daylight, realistic landscape photography., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A secluded forest waterfall surrounded by wet stones, moss and ferns, white water flowing into a small pool, atmospheric depth and natural colors., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "Realistic woodland waterfall with a rocky cascade, lush vegetation and mist near the pool, layered forest background, soft overcast light and detailed textures., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark"
+    ]
+  },
+  {
+    "id": "landscape_09",
+    "category": "landscape",
+    "subcategory": "waterfall_landscape",
+    "name": "waterfall landscape — mountain cascade",
+    "tz": "Показать высокий водопад, спускающийся по скалистому горному склону. Внизу должна быть долина с рекой, вдали видны горы. Водопад — главный объект, но его масштаб должен быть понятен относительно окружающего ландшафта.",
+    "prompts": [
+      "A tall waterfall descending a rugged mountain cliff into a valley river, distant mountains behind it, dramatic natural scale, realistic wide-angle landscape photography.",
+      "A powerful mountain cascade falling from a high rocky slope, a winding river below and distant peaks fading into haze, natural daylight and believable scale.",
+      "A huge alpine waterfall as the focal point of a broad mountain valley, cliffs and river below, atmospheric distant peaks, realistic textures and perspective."
+    ],
+    "llm_enhanced": [
+      "A tall waterfall descending a rugged mountain cliff into a valley river, distant mountains behind it, dramatic natural scale, realistic wide-angle landscape photography., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A powerful mountain cascade falling from a high rocky slope, a winding river below and distant peaks fading into haze, natural daylight and believable scale., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A huge alpine waterfall as the focal point of a broad mountain valley, cliffs and river below, atmospheric distant peaks, realistic textures and perspective., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark"
+    ]
+  },
+  {
+    "id": "landscape_10",
+    "category": "landscape",
+    "subcategory": "waterfall_landscape",
+    "name": "waterfall landscape — tropical waterfall",
+    "tz": "Создать тропический пейзаж с широким водопадом среди густой растительности. Вокруг должны быть пальмы, крупные листья и влажные скалы, внизу — спокойный естественный бассейн. Освещение дневное и реалистичное.",
+    "prompts": [
+      "A broad tropical waterfall surrounded by dense green vegetation, palms, large leaves and wet rocks, falling into a calm natural pool, realistic daylight photography.",
+      "A lush jungle waterfall with multiple streams cascading over dark rocks, tropical plants framing the scene, clear pool below, humid atmospheric depth and natural colors.",
+      "Realistic tropical landscape with a waterfall hidden in dense foliage, mossy stones, palms and a quiet pool at the base, soft sunlight through the canopy."
+    ],
+    "llm_enhanced": [
+      "A broad tropical waterfall surrounded by dense green vegetation, palms, large leaves and wet rocks, falling into a calm natural pool, realistic daylight photography., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "A lush jungle waterfall with multiple streams cascading over dark rocks, tropical plants framing the scene, clear pool below, humid atmospheric depth and natural colors., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark",
+      "Realistic tropical landscape with a waterfall hidden in dense foliage, mossy stones, palms and a quiet pool at the base, soft sunlight through the canopy., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark"
+    ]
+  },
+  {
+    "id": "person_composition_01",
+    "category": "person_composition",
+    "subcategory": "one_standing_pose",
+    "name": "one standing pose — neutral",
+    "tz": "Один человек стоит прямо в нейтральной естественной позе. Полный рост от головы до стоп помещается в кадр, руки свободно опущены, ноги стоят естественно. Фон простой, чтобы хорошо читался силуэт. Стиль студии Ghibli.",
+    "prompts": [
+      "A full-body person standing naturally with relaxed arms at the sides, feet positioned comfortably, neutral posture, clear silhouette, simple uncluttered background.  Ghibli style ",
+      "A person standing casually in a neutral pose, entire body visible from head to feet, shoulders relaxed, hands hanging naturally, clean studio-like background.  Ghibli style ",
+      "A full-length human figure standing upright in an everyday relaxed posture, natural stance and proportions, unobstructed silhouette, minimal background.  Ghibli style "
+    ],
+    "llm_enhanced": [
+      "A full-body person standing naturally with relaxed arms at the sides, feet positioned comfortably, neutral posture, clear silhouette, simple uncluttered background. Ghibli style, full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A person standing casually in a neutral pose, entire body visible from head to feet, shoulders relaxed, hands hanging naturally, clean studio-like background. Ghibli style, full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A full-length human figure standing upright in an everyday relaxed posture, natural stance and proportions, unobstructed silhouette, minimal background. Ghibli style, full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark"
+    ]
+  },
+  {
+    "id": "person_composition_02",
+    "category": "person_composition",
+    "subcategory": "one_standing_pose",
+    "name": "one standing pose — arms raised",
+    "tz": "Один человек стоит в полный рост и поднимает обе руки над головой. Локти слегка согнуты, кисти полностью видны, ноги устойчиво стоят на земле. Поза должна быть симметричной и легко читаемой.",
+    "prompts": [
+      "Full-body person standing with both arms raised above the head, elbows slightly bent, feet grounded, hands clearly visible, symmetrical readable pose.",
+      "A standing figure stretching both arms upward, entire body visible, balanced stance, separated hands and forearms, simple neutral background.",
+      "Full-length human pose with both arms lifted overhead, upright torso and stable legs, clear shoulder, elbow and hand positions, clean anatomical reference."
+    ],
+    "llm_enhanced": [
+      "Full-body person standing with both arms raised above the head, elbows slightly bent, feet grounded, hands clearly visible, symmetrical readable pose., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A standing figure stretching both arms upward, entire body visible, balanced stance, separated hands and forearms, simple neutral background., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "Full-length human pose with both arms lifted overhead, upright torso and stable legs, clear shoulder, elbow and hand positions, clean anatomical reference., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark"
+    ]
+  },
+  {
+    "id": "person_composition_03",
+    "category": "person_composition",
+    "subcategory": "one_standing_pose",
+    "name": "one standing pose — three-quarter",
+    "tz": "Показать одного человека в полный рост в естественной стойке три четверти. Корпус слегка повёрнут относительно камеры, одна нога немного впереди другой, руки расслаблены. Весь силуэт должен быть виден.",
+    "prompts": [
+      "A full-body person standing in a natural three-quarter pose, torso slightly turned from the camera, one foot slightly forward, relaxed arms, clear silhouette.",
+      "A character shown head to toe in a relaxed three-quarter stance, shoulders and hips naturally angled, hands at the sides, uncluttered background.",
+      "Full-length human figure in a comfortable three-quarter standing pose, subtle weight shift to one leg, natural anatomy and unobstructed body outline."
+    ],
+    "llm_enhanced": [
+      "A full-body person standing in a natural three-quarter pose, torso slightly turned from the camera, one foot slightly forward, relaxed arms, clear silhouette., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A character shown head to toe in a relaxed three-quarter stance, shoulders and hips naturally angled, hands at the sides, uncluttered background., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "Full-length human figure in a comfortable three-quarter standing pose, subtle weight shift to one leg, natural anatomy and unobstructed body outline., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark"
+    ]
+  },
+  {
+    "id": "person_composition_04",
+    "category": "person_composition",
+    "subcategory": "one_standing_pose",
+    "name": "one standing pose — looking sideways",
+    "tz": "Один человек стоит в полный рост, корпус направлен почти прямо, но голова повернута в сторону. Руки находятся в естественном положении, ноги не перекрещены. Важно сохранить ясное положение головы относительно корпуса.",
+    "prompts": [
+      "A full-body person standing upright while turning the head to the side, torso facing forward, relaxed arms, feet naturally positioned, clear readable silhouette.",
+      "A standing figure seen head to toe, body facing the camera while the face looks to one side, natural posture and simple background.",
+      "Full-length human pose with a stable stance and sideways head turn, shoulders level, arms relaxed, clear anatomy and unobstructed silhouette."
+    ],
+    "llm_enhanced": [
+      "A full-body person standing upright while turning the head to the side, torso facing forward, relaxed arms, feet naturally positioned, clear readable silhouette., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A standing figure seen head to toe, body facing the camera while the face looks to one side, natural posture and simple background., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "Full-length human pose with a stable stance and sideways head turn, shoulders level, arms relaxed, clear anatomy and unobstructed silhouette., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark"
+    ]
+  },
+  {
+    "id": "person_composition_05",
+    "category": "person_composition",
+    "subcategory": "one_walking_pose",
+    "name": "one walking pose — natural stride",
+    "tz": "Показать одного человека в полный рост в момент обычного шага. Одна нога впереди, другая позади, противоположная рука движется вперёд. Поза должна выглядеть естественно и передавать перенос веса.",
+    "prompts": [
+      "A full-body person captured mid-stride while walking naturally, one leg forward and the opposite arm moving forward, clear weight shift and readable silhouette.",
+      "A person walking toward the viewer in an everyday step, entire body visible, opposite arm and leg moving naturally, clean uncluttered background.",
+      "A full-length walking figure caught between steps, one foot ahead, relaxed forward motion, natural arm swing and believable human anatomy."
+    ],
+    "llm_enhanced": [
+      "A full-body person captured mid-stride while walking naturally, one leg forward and the opposite arm moving forward, clear weight shift and readable silhouette., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A person walking toward the viewer in an everyday step, entire body visible, opposite arm and leg moving naturally, clean uncluttered background., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A full-length walking figure caught between steps, one foot ahead, relaxed forward motion, natural arm swing and believable human anatomy., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark"
+    ]
+  },
+  {
+    "id": "person_composition_06",
+    "category": "person_composition",
+    "subcategory": "one_walking_pose",
+    "name": "one walking pose — side view",
+    "tz": "Изобразить одного человека в полный рост в профиль во время ходьбы. Тело направлено в сторону движения, одна нога вынесена вперёд, руки совершают естественный встречный мах. Все конечности должны быть различимы.",
+    "prompts": [
+      "A full-body person walking in clear side profile, one leg extended forward, the opposite arm swinging naturally, all limbs visible, simple background.",
+      "A person shown head to toe moving from left to right in a natural walking cycle, readable side silhouette, balanced stride and realistic anatomy.",
+      "Side-view full-length walking pose with one foot ahead and the opposite arm forward, natural weight transfer, unobstructed body and clear proportions."
+    ],
+    "llm_enhanced": [
+      "A full-body person walking in clear side profile, one leg extended forward, the opposite arm swinging naturally, all limbs visible, simple background., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A person shown head to toe moving from left to right in a natural walking cycle, readable side silhouette, balanced stride and realistic anatomy., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "Side-view full-length walking pose with one foot ahead and the opposite arm forward, natural weight transfer, unobstructed body and clear proportions., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark"
+    ]
+  },
+  {
+    "id": "person_composition_07",
+    "category": "person_composition",
+    "subcategory": "one_walking_pose",
+    "name": "one walking pose — walking away",
+    "tz": "Показать человека в полный рост, уходящего от камеры по прямой. Спина обращена к зрителю, одна нога впереди другой, руки свободно движутся при ходьбе. Положение тела должно быть хорошо читаемым.",
+    "prompts": [
+      "A full-body person walking away from the camera, back facing the viewer, one leg ahead of the other, natural arm swing, clear silhouette.",
+      "A figure shown from behind while walking along a simple path, head to feet visible, relaxed shoulders, believable stride and uncluttered background.",
+      "Full-length rear-view walking pose, body moving forward away from the viewer, natural step cycle, visible hands and feet, realistic anatomy."
+    ],
+    "llm_enhanced": [
+      "A full-body person walking away from the camera, back facing the viewer, one leg ahead of the other, natural arm swing, clear silhouette., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A figure shown from behind while walking along a simple path, head to feet visible, relaxed shoulders, believable stride and uncluttered background., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "Full-length rear-view walking pose, body moving forward away from the viewer, natural step cycle, visible hands and feet, realistic anatomy., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark"
+    ]
+  },
+  {
+    "id": "person_composition_08",
+    "category": "person_composition",
+    "subcategory": "two_person_standing",
+    "name": "two standing people — conversation",
+    "tz": "Два человека стоят лицом друг к другу на небольшом расстоянии и спокойно разговаривают. Оба полностью помещаются в кадр, руки используют умеренные естественные жесты. Силуэты двух фигур не должны сливаться.",
+    "prompts": [
+      "Two full-body people standing face to face and having a casual conversation, small distance between them, natural hand gestures, clearly separated silhouettes.",
+      "Two people talking quietly while standing opposite each other, both visible from head to feet, relaxed posture and subtle conversational gestures, simple environment.",
+      "A full-length pair engaged in an everyday conversation, facing each other with natural spacing, one person gesturing lightly while the other listens."
+    ],
+    "llm_enhanced": [
+      "Two full-body people standing face to face and having a casual conversation, small distance between them, natural hand gestures, clearly separated silhouettes., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "Two people talking quietly while standing opposite each other, both visible from head to feet, relaxed posture and subtle conversational gestures, simple environment., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A full-length pair engaged in an everyday conversation, facing each other with natural spacing, one person gesturing lightly while the other listens., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark"
+    ]
+  },
+  {
+    "id": "person_composition_09",
+    "category": "person_composition",
+    "subcategory": "two_person_standing",
+    "name": "two standing people — side by side",
+    "tz": "Два человека стоят рядом, слегка повернувшись друг к другу. Оба видны в полный рост, между фигурами есть небольшое пространство. Один человек может жестом указывать вперёд, второй смотрит в том же направлении.",
+    "prompts": [
+      "Two full-body people standing side by side with a small gap between them, slightly turned toward each other, one pointing forward while the other looks in the same direction.",
+      "A pair of people standing together outdoors, both visible head to toe, one making a simple pointing gesture, natural relaxed posture and clearly separated bodies.",
+      "Two standing figures beside each other, sharing attention toward something in front of them, readable arms and legs, balanced composition and realistic anatomy."
+    ],
+    "llm_enhanced": [
+      "Two full-body people standing side by side with a small gap between them, slightly turned toward each other, one pointing forward while the other looks in the same direction., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A pair of people standing together outdoors, both visible head to toe, one making a simple pointing gesture, natural relaxed posture and clearly separated bodies., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "Two standing figures beside each other, sharing attention toward something in front of them, readable arms and legs, balanced composition and realistic anatomy., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark"
+    ]
+  },
+  {
+    "id": "person_composition_10",
+    "category": "person_composition",
+    "subcategory": "two_person_standing",
+    "name": "two standing people — greeting",
+    "tz": "Показать двух людей в полный рост, стоящих друг напротив друга и приветствующих друг друга. Один человек поднимает руку в жесте приветствия, второй отвечает небольшим жестом. Фигуры должны быть раздельными и хорошо читаемыми.",
+    "prompts": [
+      "Two full-body people standing face to face and greeting each other, one raising a hand in greeting and the other responding, clear separation between the figures.",
+      "A pair of people meeting and saying hello while standing upright, both visible from head to feet, simple friendly gestures, natural proportions and uncluttered background.",
+      "Two standing figures greeting one another, one hand raised and the other person responding with a small gesture, full bodies visible and readable."
+    ],
+    "llm_enhanced": [
+      "Two full-body people standing face to face and greeting each other, one raising a hand in greeting and the other responding, clear separation between the figures., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "A pair of people meeting and saying hello while standing upright, both visible from head to feet, simple friendly gestures, natural proportions and uncluttered background., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark",
+      "Two standing figures greeting one another, one hand raised and the other person responding with a small gesture, full bodies visible and readable., full-body human figure, entire head, hands and feet visible, unobstructed silhouette, realistic human anatomy, natural proportions, clear pose readability, simple uncluttered background, balanced framing, no cropped limbs, no extra limbs, sharp subject, balanced framing, no text, no watermark"
+    ]
+  }
+]

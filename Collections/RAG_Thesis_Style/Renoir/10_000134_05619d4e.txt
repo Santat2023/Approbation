@@ -1,0 +1,5 @@
+artist: Pierre Auguste Renoir
+style: Impressionism
+mood: Dynamic and atmospheric, evoking the raw energy of the sea.
+style_description: Impressionist oil painting with visible, expressive brushstrokes.
+color: Vibrant palette with warm oranges, reds, and purples in the foreground contrasting with cool blues, greens, and whites in the sea and sky.

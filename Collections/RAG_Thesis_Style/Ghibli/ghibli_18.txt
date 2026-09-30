@@ -1,0 +1,5 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Energetic, wild, and exhilarating.
+style_description: Highly dynamic character poses showing strong wind effects, flying hair, and kinetic energy with visible rain streaks.
+color: Warm, intense color palette dominated by fiery orange, pink, and bright yellow, contrasted with green foliage.

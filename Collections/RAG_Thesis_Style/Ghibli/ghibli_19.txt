@@ -1,0 +1,5 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Joyful, energetic, and lighthearted.
+style_description: Bright, clean, whimsical character designs with playful body movements and a detailed fantasy environment.
+color: A cheerful, pastel-leaning palette featuring pink, bright blue, yellow, and green clothing amidst purple flowers.

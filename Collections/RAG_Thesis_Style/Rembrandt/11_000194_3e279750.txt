@@ -1,0 +1,5 @@
+artist: Rembrandt
+style: Baroque
+mood: Contemplative, introspective, and solemn.
+style_description: Oil on canvas with a rich, dark palette and expressive brushwork. Characterized by dramatic chiaroscuro, visible impasto, and a blend of detailed rendering and textured application.
+color: Dominated by deep browns and warm reds, with golden highlights on the skin and clothing, set against a dark green-black background.

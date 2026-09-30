@@ -1,0 +1,5 @@
+artist: Pierre Auguste Renoir
+style: Impressionism
+mood: Relaxed, tranquil, and contemplative, evoking a sense of peaceful domestic life.
+style_description: Impressionist oil painting with loose, expressive brushstrokes that emphasize light and color over precise detail.
+color: Warm palette dominated by yellows, greens, and pinks, with vibrant, blended hues that suggest sunlight and foliage.

@@ -1,0 +1,5 @@
+artist: Pierre Auguste Renoir
+style: Impressionism
+mood: Intimate, contemplative, and serene.
+style_description: Oil on canvas with a loose, expressive Impressionist style, featuring visible, fluid brushstrokes and soft focus.
+color: Dominated by warm yellows, ochres, and browns, contrasted with the cool blue of her dress and the golden tones of her necklace and hair.

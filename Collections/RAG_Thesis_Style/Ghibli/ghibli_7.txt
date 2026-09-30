@@ -1,0 +1,5 @@
+artist: Hiromasa Yonebayashi (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Innocent, curious, and emotionally raw.
+style_description: Clean character line art with soft, detailed eye reflections and a beautifully painted watercolor-like backdrop.
+color: Warm skin tones and dark brown hair contrasted against a rich, soft green natural background.

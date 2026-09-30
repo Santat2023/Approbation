@@ -1,0 +1,5 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Intense, urgent, and determined.
+style_description: Detailed hand-drawn animation style featuring expressive character faces and a soft, painterly background.
+color: Muted color scheme with soft blues, grays, and earth tones, accented by striped clothing patterns.

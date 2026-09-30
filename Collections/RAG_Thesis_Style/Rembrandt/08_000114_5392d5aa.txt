@@ -1,0 +1,5 @@
+artist: Rembrandt
+style: Baroque
+mood: Intimate, tender, and romantic.
+style_description: Oil on canvas with expressive brushwork and impasto technique, creating rich texture in the clothing and skin.
+color: Dominated by deep reds, golds, and earthy browns, with a warm and rich palette.

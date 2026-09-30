@@ -1,0 +1,6 @@
+artist: Rembrandt
+style: Baroque
+mood: Contemplative, serious, and introspective.
+style_description: Etching, characterized by fine lines and textured shading to create depth and detail.
+lighting: Soft, directional light from the right, creating subtle shadows and highlighting facial features and textures.
+composition: A bust portrait framed in a three-quarter profile, focusing on the man's head, shoulders, and upper chest, with a direct gaze that engages the viewer.

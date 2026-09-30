@@ -1,0 +1,5 @@
+artist: Rembrandt
+style: Baroque
+mood: Contemplative, somber, introspective.
+style_description: A sketch rendered in ink on paper with strong, expressive lines and a study-like quality.
+color: Monochromatic, relying on the contrast between dark ink and light paper.

@@ -1,0 +1,5 @@
+artist: Hiromasa Yonebayashi (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Desperate, urgent, and intense.
+style_description: Dynamic character pose capturing motion, accompanied by layered weather and environmental particle effects.
+color: Moody, desaturated color scheme consisting of dark greens, grays, and purples, with bright highlights on the raindrops.

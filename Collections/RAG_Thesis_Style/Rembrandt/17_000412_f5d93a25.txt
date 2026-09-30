@@ -1,0 +1,5 @@
+artist: Rembrandt
+style: Baroque
+mood: Contemplative, introspective, and serene.
+style_description: Expressive ink drawing with bold, confident lines and soft strokes to define form and texture.
+color: Monochrome, with a stark contrast between black ink and white paper.

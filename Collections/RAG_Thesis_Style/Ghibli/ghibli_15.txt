@@ -1,0 +1,5 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Intimate, quiet, and tender.
+style_description: Clean, expressive character art with detailed facial emotions and solid background rendering.
+color: A palette featuring a bold pink dress and dark teal hair contrasted against the neutral tones of the white suit and brown wood.

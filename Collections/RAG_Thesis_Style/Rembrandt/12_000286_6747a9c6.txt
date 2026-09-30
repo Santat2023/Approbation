@@ -1,0 +1,5 @@
+artist: Rembrandt
+style: Baroque
+mood: solemn, reverent, dramatic
+style_description: oil paint on canvas, Baroque period, expressive brushwork, strong chiaroscuro
+color: dominated by warm earth tones—browns, ochres, and deep reds—with a dark, muted background

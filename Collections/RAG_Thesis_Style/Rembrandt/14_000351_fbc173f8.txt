@@ -1,0 +1,6 @@
+artist: Rembrandt
+style: Baroque
+genre: Unknown Genre
+mood: Contemplative, solemn, and introspective.
+style_description: Oil painting on canvas with smooth blending and visible brushstrokes, characteristic of the Baroque period.
+color: Dominated by deep earthy browns, reds, and warm highlights, contrasted with dark shadows, creating a rich tonal harmony.

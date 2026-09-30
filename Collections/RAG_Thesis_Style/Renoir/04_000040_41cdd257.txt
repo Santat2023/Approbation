@@ -1,0 +1,5 @@
+artist: Pierre Auguste Renoir
+style: Impressionism
+mood: Cozy, contemplative, and nostalgic.
+style_description: Oil painting in the Impressionist style, characterized by visible brushstrokes and a focus on light and color.
+color: Rich earth tones—ochre, brown, and warm yellows—dominate, accented by vibrant reds and yellows in the bouquet and fan.

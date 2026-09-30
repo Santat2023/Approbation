@@ -1,0 +1,5 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Melancholic, protective, and atmospheric.
+style_description: Beautifully rendered hand-drawn animation style with detailed water drop effects overlaid on the characters.
+color: Desaturated cool palette featuring soft grays, muted blues, and dark teals, with a subtle yellow accent on the hat flower.

@@ -1,0 +1,5 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Warm, comforting, and cheerful.
+style_description: Expressive, friendly character design with clean, smooth animation outlines and soft flat fills.
+color: Casual color mix including the mother's deep blue shirt, the son's bright yellow shirt, and a soft green child seat.

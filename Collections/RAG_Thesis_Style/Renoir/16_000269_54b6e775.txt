@@ -1,0 +1,5 @@
+artist: Pierre Auguste Renoir
+style: Impressionism
+mood: Serene, contemplative, and tranquil
+style_description: Impressionist oil painting with soft blending, broad and visible brushstrokes, and a focus on light and movement over precise detail
+color: Vibrant and warm palette dominated by golden yellows, rich reds in the hair, soft whites on the skin, and green reflections in the water

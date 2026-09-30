@@ -1,0 +1,6 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Whimsical, dreamlike, and mysterious.
+style_description: Classic Studio Ghibli hand-painted aesthetic with clean linework and soft gradients on characters.
+lighting: Magical nighttime illumination with a bright green glow emanating from the moon, casting soft light on the characters.
+color: A rich palette dominated by deep teal, dark blue, and vivid green, contrasted with the characters' clothing.

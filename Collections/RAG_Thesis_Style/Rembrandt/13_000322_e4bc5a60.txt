@@ -1,0 +1,5 @@
+artist: Rembrandt
+style: Baroque
+mood: Solemn, reverent, and spiritually charged, evoking a sense of divine presence and collective awe.
+style_description: Baroque etching characterized by dramatic chiaroscuro, rich textures, and detailed rendering to convey emotion and movement. The composition emphasizes naturalistic human forms and expressive gestures.
+color: Monochromatic palette of warm browns, deep charcoal grays, and luminous highlights, creating high contrast and visual depth.

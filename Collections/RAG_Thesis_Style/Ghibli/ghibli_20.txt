@@ -1,0 +1,5 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Magical, serene, and filled with a sense of freedom.
+style_description: Minimalist, iconic character linework combined with a stunning, soft-painted Ghibli sky backdrop.
+color: A bright and uplifting color palette dominated by sky blue, cloud white, deep yellow, and soft pink tones.

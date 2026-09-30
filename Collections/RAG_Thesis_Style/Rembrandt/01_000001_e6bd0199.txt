@@ -1,0 +1,5 @@
+artist: Rembrandt
+style: Baroque
+mood: Reverent, awe-inspiring, and dramatic.
+style_description: Etching with intricate cross-hatching and detailed linework, characteristic of Baroque art.
+color: Monochromatic, using black, white, and various shades of grey.

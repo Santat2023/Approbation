@@ -1,0 +1,5 @@
+artist: Rembrandt
+style: Baroque
+mood: introspective, calm, dignified, contemplative
+style_description: etching, line art, naturalistic rendering, detailed line work, fine lines, artistic rendering
+color: monochromatic, black and white, dark medium, light grey

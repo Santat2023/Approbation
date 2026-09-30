@@ -1,0 +1,1338 @@
+{
+  "last_node_id": 138,
+  "last_link_id": 217,
+  "nodes": [
+    {
+      "id": 102,
+      "type": "PreviewImage",
+      "pos": [
+        5322.578125,
+        4501.82763671875
+      ],
+      "size": [
+        210,
+        246
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 159
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 122,
+      "type": "PreviewImage",
+      "pos": [
+        6457.337890625,
+        3049.80078125
+      ],
+      "size": [
+        210,
+        246
+      ],
+      "flags": {},
+      "order": 17,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 214
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 88,
+      "type": "PreviewImage",
+      "pos": [
+        5289.3955078125,
+        2938.3349609375
+      ],
+      "size": [
+        210,
+        246
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 161
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 20,
+      "type": "VAEDecode",
+      "pos": [
+        2410.8984375,
+        3254.676513671875
+      ],
+      "size": [
+        210,
+        46
+      ],
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 217
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 37
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            36
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 86,
+      "type": "SaveImage",
+      "pos": [
+        6949.27294921875,
+        3296.67529296875
+      ],
+      "size": [
+        406.95953369140625,
+        473.0511779785156
+      ],
+      "flags": {},
+      "order": 22,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 114
+        }
+      ],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "ComfyUI"
+      ]
+    },
+    {
+      "id": 85,
+      "type": "VAEDecode",
+      "pos": [
+        6047.55810546875,
+        3240.17529296875
+      ],
+      "size": [
+        210,
+        46
+      ],
+      "flags": {},
+      "order": 21,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 213
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 115
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            114
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 82,
+      "type": "EmptyLatentImage",
+      "pos": [
+        4821.8291015625,
+        3555.971435546875
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            111
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyLatentImage"
+      },
+      "widgets_values": [
+        1024,
+        1024,
+        1
+      ]
+    },
+    {
+      "id": 81,
+      "type": "KSampler",
+      "pos": [
+        5973.505859375,
+        3551.5771484375
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 20,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 212
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 198
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 199
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 111
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            213
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        3962339971765,
+        "fixed",
+        30,
+        5.5,
+        "dpmpp_2m",
+        "karras",
+        1
+      ]
+    },
+    {
+      "id": 99,
+      "type": "IPAdapterUnifiedLoader",
+      "pos": [
+        5148.59521484375,
+        4193.21875
+      ],
+      "size": [
+        315,
+        78
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 117
+        },
+        {
+          "name": "ipadapter",
+          "type": "IPADAPTER",
+          "link": null,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "links": [
+            118
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "ipadapter",
+          "type": "IPADAPTER",
+          "links": [
+            119
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "IPAdapterUnifiedLoader"
+      },
+      "widgets_values": [
+        "STANDARD (medium strength)"
+      ]
+    },
+    {
+      "id": 78,
+      "type": "CheckpointLoaderSimple",
+      "pos": [
+        4498.54248046875,
+        4324.19287109375
+      ],
+      "size": [
+        315,
+        98
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            117
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            131,
+            163
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            107,
+            115
+          ],
+          "slot_index": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CheckpointLoaderSimple"
+      },
+      "widgets_values": [
+        "sdXL_v10VAEFix.safetensors"
+      ]
+    },
+    {
+      "id": 123,
+      "type": "KSampler",
+      "pos": [
+        2304.766845703125,
+        3771.479248046875
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 201
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 202
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 203
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 173
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            179,
+            217
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        256156507374284,
+        "fixed",
+        30,
+        5.5,
+        "dpmpp_2m",
+        "karras",
+        1
+      ]
+    },
+    {
+      "id": 21,
+      "type": "SaveImage",
+      "pos": [
+        3069.65625,
+        3248.42529296875
+      ],
+      "size": [
+        210,
+        270
+      ],
+      "flags": {},
+      "order": 19,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 36
+        }
+      ],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "ComfyUI"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "CheckpointLoaderSimple",
+      "pos": [
+        861.9775390625,
+        3583.9638671875
+      ],
+      "size": [
+        315,
+        98
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            201
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            38,
+            177
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            37
+          ],
+          "slot_index": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CheckpointLoaderSimple"
+      },
+      "widgets_values": [
+        "sdXL_v10VAEFix.safetensors"
+      ]
+    },
+    {
+      "id": 105,
+      "type": "CLIPTextEncode",
+      "pos": [
+        4679.74072265625,
+        3214.151611328125
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 131
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            170
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "low quality, worst quality, blurry, bad anatomy, extra fingers, extra limbs, deformed hands, fused fingers, long neck, cross-eye, ugly, watermark, text, logo, jpeg artifacts"
+      ]
+    },
+    {
+      "id": 125,
+      "type": "CLIPTextEncode",
+      "pos": [
+        1529.3214111328125,
+        3655.111572265625
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 177
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            203
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "low quality, worst quality, blurry, bad anatomy, extra fingers, extra limbs, deformed hands, fused fingers, long neck, cross-eye, ugly, watermark, text, logo, jpeg artifacts"
+      ]
+    },
+    {
+      "id": 124,
+      "type": "EmptyLatentImage",
+      "pos": [
+        1816.4609375,
+        3901.580810546875
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            173
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyLatentImage"
+      },
+      "widgets_values": [
+        1024,
+        1024,
+        1
+      ]
+    },
+    {
+      "id": 92,
+      "type": "IPAdapter",
+      "pos": [
+        5585.2060546875,
+        4211.34619140625
+      ],
+      "size": [
+        315,
+        190
+      ],
+      "flags": {},
+      "order": 15,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 118
+        },
+        {
+          "name": "ipadapter",
+          "type": "IPADAPTER",
+          "link": 119
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 160
+        },
+        {
+          "name": "attn_mask",
+          "type": "MASK",
+          "link": null,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            212
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "IPAdapter"
+      },
+      "widgets_values": [
+        0.55,
+        0,
+        1,
+        "style transfer"
+      ]
+    },
+    {
+      "id": 118,
+      "type": "MyNodesForDB",
+      "pos": [
+        5232.4150390625,
+        3892.822265625
+      ],
+      "size": [
+        315,
+        150
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "pose_query",
+          "type": "STRING",
+          "link": 157,
+          "widget": {
+            "name": "pose_query"
+          }
+        },
+        {
+          "name": "style_query",
+          "type": "STRING",
+          "link": 158,
+          "widget": {
+            "name": "style_query"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Pose image",
+          "type": "IMAGE",
+          "links": [
+            161,
+            215
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "Style image",
+          "type": "IMAGE",
+          "links": [
+            159,
+            160
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "MyNodesForDB"
+      },
+      "widgets_values": [
+        "",
+        "mountain_landscape",
+        "",
+        "style_Ghibli",
+        1,
+        0
+      ]
+    },
+    {
+      "id": 87,
+      "type": "ControlNetLoader",
+      "pos": [
+        5089.123046875,
+        2827.00439453125
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CONTROL_NET",
+          "type": "CONTROL_NET",
+          "links": [
+            103
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ControlNetLoader"
+      },
+      "widgets_values": [
+        "xinsir_sdxl_canny.safetensors"
+      ]
+    },
+    {
+      "id": 138,
+      "type": "CannyEdgePreprocessor",
+      "pos": [
+        5683.9931640625,
+        3124.46142578125
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 215
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            214,
+            216
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CannyEdgePreprocessor"
+      },
+      "widgets_values": [
+        70,
+        250,
+        1024
+      ]
+    },
+    {
+      "id": 79,
+      "type": "ControlNetApplyAdvanced",
+      "pos": [
+        6087.51025390625,
+        2796.3974609375
+      ],
+      "size": [
+        315,
+        186
+      ],
+      "flags": {},
+      "order": 18,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 164
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 170
+        },
+        {
+          "name": "control_net",
+          "type": "CONTROL_NET",
+          "link": 103
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 216
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 107,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "links": [
+            198
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "links": [
+            199
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ControlNetApplyAdvanced"
+      },
+      "widgets_values": [
+        0.6,
+        0,
+        1
+      ]
+    },
+    {
+      "id": 117,
+      "type": "MyNodesForLLM",
+      "pos": [
+        4761.55712890625,
+        3809.041259765625
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 163
+        }
+      ],
+      "outputs": [
+        {
+          "name": "cond",
+          "type": "CONDITIONING",
+          "links": [
+            164
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "pose_query",
+          "type": "STRING",
+          "links": [
+            157
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "style_query",
+          "type": "STRING",
+          "links": [
+            158
+          ],
+          "slot_index": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "MyNodesForLLM"
+      },
+      "widgets_values": [
+        "A mountain highway curving through a vast valley toward towering snowy mountains, the road forming a strong leading line, overcast sky and natural photographic detail., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark. Hideo Miyazaki style picture"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "CLIPTextEncode",
+      "pos": [
+        1510.6279296875,
+        3311.993896484375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 38
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            202
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "A mountain highway curving through a vast valley toward towering snowy mountains, the road forming a strong leading line, overcast sky and natural photographic detail., photorealistic landscape photography, wide-angle composition, natural perspective, clear depth separation, realistic lighting, detailed environmental textures, atmospheric depth, coherent scale, balanced composition, natural color, no text, no watermark. Hideo Miyazaki style picture "
+      ]
+    }
+  ],
+  "links": [
+    [
+      36,
+      20,
+      0,
+      21,
+      0,
+      "IMAGE"
+    ],
+    [
+      37,
+      16,
+      2,
+      20,
+      1,
+      "VAE"
+    ],
+    [
+      38,
+      16,
+      1,
+      22,
+      0,
+      "CLIP"
+    ],
+    [
+      103,
+      87,
+      0,
+      79,
+      2,
+      "CONTROL_NET"
+    ],
+    [
+      107,
+      78,
+      2,
+      79,
+      4,
+      "VAE"
+    ],
+    [
+      110,
+      81,
+      0,
+      85,
+      0,
+      "LATENT"
+    ],
+    [
+      111,
+      82,
+      0,
+      81,
+      3,
+      "LATENT"
+    ],
+    [
+      114,
+      85,
+      0,
+      86,
+      0,
+      "IMAGE"
+    ],
+    [
+      115,
+      78,
+      2,
+      85,
+      1,
+      "VAE"
+    ],
+    [
+      117,
+      78,
+      0,
+      99,
+      0,
+      "MODEL"
+    ],
+    [
+      118,
+      99,
+      0,
+      92,
+      0,
+      "MODEL"
+    ],
+    [
+      119,
+      99,
+      1,
+      92,
+      1,
+      "IPADAPTER"
+    ],
+    [
+      131,
+      78,
+      1,
+      105,
+      0,
+      "CLIP"
+    ],
+    [
+      157,
+      117,
+      1,
+      118,
+      0,
+      "STRING"
+    ],
+    [
+      158,
+      117,
+      2,
+      118,
+      1,
+      "STRING"
+    ],
+    [
+      159,
+      118,
+      1,
+      102,
+      0,
+      "IMAGE"
+    ],
+    [
+      160,
+      118,
+      1,
+      92,
+      2,
+      "IMAGE"
+    ],
+    [
+      161,
+      118,
+      0,
+      88,
+      0,
+      "IMAGE"
+    ],
+    [
+      163,
+      78,
+      1,
+      117,
+      0,
+      "CLIP"
+    ],
+    [
+      164,
+      117,
+      0,
+      79,
+      0,
+      "CONDITIONING"
+    ],
+    [
+      170,
+      105,
+      0,
+      79,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      173,
+      124,
+      0,
+      123,
+      3,
+      "LATENT"
+    ],
+    [
+      177,
+      16,
+      1,
+      125,
+      0,
+      "CLIP"
+    ],
+    [
+      174,
+      123,
+      0,
+      20,
+      0,
+      "LATENT"
+    ],
+    [
+      198,
+      79,
+      0,
+      81,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      199,
+      79,
+      1,
+      81,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      201,
+      16,
+      0,
+      123,
+      0,
+      "MODEL"
+    ],
+    [
+      202,
+      22,
+      0,
+      123,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      203,
+      125,
+      0,
+      123,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      212,
+      92,
+      0,
+      81,
+      0,
+      "MODEL"
+    ],
+    [
+      213,
+      81,
+      0,
+      85,
+      0,
+      "LATENT"
+    ],
+    [
+      214,
+      138,
+      0,
+      122,
+      0,
+      "IMAGE"
+    ],
+    [
+      215,
+      118,
+      0,
+      138,
+      0,
+      "IMAGE"
+    ],
+    [
+      216,
+      138,
+      0,
+      79,
+      3,
+      "IMAGE"
+    ],
+    [
+      217,
+      123,
+      0,
+      20,
+      0,
+      "LATENT"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 2,
+      "title": "Group",
+      "bounding": [
+        812.3206787109375,
+        3131.725341796875,
+        2499.740478515625,
+        1305.1302490234375
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "id": 7,
+      "title": "Group",
+      "bounding": [
+        4478.0869140625,
+        2724.73828125,
+        3758.9697265625,
+        2679.16650390625
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.6727499949325639,
+      "offset": [
+        -389.9107725035186,
+        -2386.2576344909558
+      ]
+    },
+    "groupNodes": {},
+    "quality_pipeline": {
+      "enabled": true,
+      "description": "Clean SDXL pipeline: 1024x1024 first pass only; no latent upscale or second KSampler. Baseline and RAG use the same SDXL checkpoint and sampler settings. RAG adds IPAdapter and ControlNet. FaceDetailer is retained only as a final optional face correction.",
+      "resolution": "1024x1024",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 30,
+      "cfg": 5.5,
+      "denoise": 1,
+      "ipadapter_weight": 0.55,
+      "controlnet_weight": 0.6,
+      "face_detailer": {
+        "enabled": true,
+        "steps": 15,
+        "cfg": 5.5,
+        "denoise": 0.35
+      },
+      "removed": [
+        "latent upscale 1.5x baseline",
+        "latent upscale 2x RAG",
+        "second KSampler quality pass"
+      ],
+      "experimental_note": "Baseline and RAG share the same SDXL checkpoint and generation settings; only RAG conditioning differs."
+    }
+  },
+  "version": 0.4
+}

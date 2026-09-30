@@ -1,0 +1,5 @@
+artist: Rembrandt
+style: Baroque
+mood: Quiet, contemplative, and somber, evoking the stillness of a cold winter day.
+style_description: Oil painting with a loose, expressive technique. Visible brushstrokes add texture and movement, especially in the sky and foliage. The style reflects early Baroque landscape painting.
+color: Dominated by warm earth tones of brown and ochre, contrasting with a cool blue-green sky. The palette is muted and subdued, enhancing the wintry atmosphere.

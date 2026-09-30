@@ -1,0 +1,5 @@
+artist: Rembrandt
+style: Baroque
+mood: Intense, contemplative, and slightly unsettling due to the exaggerated facial features and direct gaze.
+style_description: Loose sketch style with bold, expressive lines and minimal detail, rendered in ink wash technique emphasizing form over texture.
+color: Earth tones dominated by browns, beige, and black, with contrasting greyish-green highlights on the face.

@@ -1,0 +1,30 @@
+empty latent image 1024x1024
+negative 
+low quality, worst quality, blurry, bad anatomy, extra fingers, extra limbs, deformed hands, fused fingers, long neck, cross-eye, ugly, watermark, text, logo, jpeg artifacts
+negative face detailer
+deformed eyes, teeth, blurry face
+
+
+seed face detailer 919978479247528
+steps 15
+cfg 5.5
+sampler name dpmpp_2m
+scheduler karras
+denoise 0.35
+
+
+seed k-sampler 256156507374284
+steps 30
+cfg 5.5
+sampler name dpmpp_2m
+scheduler karras
+denoise 1.0
+
+
+pose collection one_stainding_pose
+style collection style_Ghibli
+
+open pose weight 0.6
+
+auto_weight 1.0
+manual_weight 0

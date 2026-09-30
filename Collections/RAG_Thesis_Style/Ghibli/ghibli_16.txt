@@ -1,0 +1,5 @@
+artist: Hayao Miyazaki (Studio Ghibli)
+style: Anime / Hand-drawn Animation
+mood: Dreamlike, magical, and expansive.
+style_description: Beautifully layered sea textures with crayon-like or watercolor texture on the sky and clouds.
+color: A vibrant color scheme dominated by deep ocean blues, lush island greens, and a light turquoise sky.
